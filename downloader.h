@@ -12,7 +12,8 @@
 #include<assert.h>
 
 
-
+#define MAX_QUERY	    2048		//最大请求数
+#define MAX_STRING		256         //主机名、资源名等
 
 
 
